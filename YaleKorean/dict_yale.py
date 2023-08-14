@@ -70,7 +70,7 @@ dict_0_YALE = {
     chr(0x1133): '.spk', # ᄳ
     chr(0x110a): 'ss', # ㅆ
     chr(0xa975): '.ssp', # ꥵ
-    chr(0x1134): '.sss', # ᄴᅠ
+    chr(0x1134): '.sss', # ᄴ
     chr(0x1135): '.sG', # ᄵ
     chr(0x1136): '.sc', # ㅾ
     chr(0x1137): '.sch', # ᄷ
