@@ -5,7 +5,7 @@ with open("README.md", "r", encoding='utf-8') as fh:
 
 setuptools.setup(
     name="YaleKorean",
-    version="1.0.0",
+    version="1.0.1",
     author="SeHaan",
     author_email="alsgk1123@gmail.com",
     description="Korean Yale Romanizer",

@@ -4,8 +4,9 @@ Romanizer for Korean following [Yale Romanization](https://en.wikipedia.org/wiki
 ## 0. History
 |date|ver|history|
 |:--:|:-:|:-----:|
-|20230812|-|Initial commit|
+|20230814|1.0.1|version 1.0.1|
 |20230814|0.0.1|test version|
+|20230812|-|Initial commit|
 
 ## 1. Installation
 ```cmd
